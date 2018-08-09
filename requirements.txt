@@ -1,0 +1,6 @@
+pandas==0.22.0
+numpy==1.14.3
+urllib3==1.22
+matplotlib==2.1.1
+seaborn==0.8.1
+jsonschema==2.6.0
